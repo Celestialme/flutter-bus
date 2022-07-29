@@ -1,0 +1,1 @@
+D:\python\android\sdk\sdk-tools-windows-4333796\platform-tools\adb.exe connect 127.0.0.1:5555
